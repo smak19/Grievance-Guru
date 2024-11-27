@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Grievance App</string>
+    <string-array name="Spinner_item">
+        <item>Hostel issues</item>
+        <item>Maintenance issues</item>
+        <item>Room allocation concerns</item>
+        <item>Cleanliness problems</item>
+        <item>Food Quality complaints</item>
+        <item>Hygiene issues</item>
+        <item>Suggestions for improvement</item>
+        <item>Delays in documentation</item>
+        <item>Admin Service quality</item>
+        <item>Delays in issuing certificates</item>
+        <item>Canteen staff behavior</item>
+        <item>Mismanagement of schedules/events</item>
+        <item>Poor notification of updates</item>
+        <item>Incorrect or missing details in certificates</item>
+        <item>Lost or misplaced certificate requests</item>
+        <item>Errors in exam results</item>
+        <item>Issues with course registration</item>
+        <item>Lack of study materials or resources</item>
+        <item>Classroom or lab maintenance issues</item>
+        <item>Insufficient seating or resources in common areas</item>
+        <item>Broken equipment in labs or libraries</item>
+        <item>Bus/transport schedule delays</item>
+        <item>Driver/staff behavior complaints</item>
+        <item>Safety concerns during transportation</item>
+        <item>Bullying or ragging complaints</item>
+        <item>Harassment by staff, peers, or others</item>
+        <item>Discrimination based on gender, caste, or religion</item>
+
+
+    </string-array>
+
+</resources>
